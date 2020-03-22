@@ -4,6 +4,7 @@ Latest release: [![DOI](https://zenodo.org/badge/207391441.svg)](https://zenodo.
 
 This repository contains data and analysis for the manuscript "Rethinking the $t^{0.5}$ dependence of SEI growth" (in review).
 
-- `SEI time dependence.ipynb` contains all analysis and figure creation
+- `SEI time dependence.ipynb` contains all analysis and figure creation used in the manuscript
+- `SEI time dependence, F test CIs.ipynb` contains the same analysis but with profile-likelihood CIs instead of asymptotic approximate CIs (both yield similar results)
 - `/figures` contains all figures used in the manuscript
 - All other directories contain the figure from which data was extracted, as well as the extracted data.
