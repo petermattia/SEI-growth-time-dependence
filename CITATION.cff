@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the original paper."
+authors:
+  - family-names: Attia
+    given-names: "Peter M."
+    orcid: https://orcid.org/0000-0003-4925-7248
+title: "SEI growth time dependence"
+version: 2.5
+doi: 10.5281/zenodo.3753624
+date-released: 2020-04-25
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Attia"
+    given-names: "Peter M."
+    orcid: "https://orcid.org/0000-0003-4745-5726"
+  - family-names: "Chueh"
+    given-names: "William C."
+    orcid: "https://orcid.org/0000-0002-7066-3470"
+  - family-names: "Harris"
+    given-names: "Stephen J."
+    orcid: "https://orcid.org/0000-0002-5211-3934"
+  doi: "10.1149/1945-7111/ab8ce4"
+  journal: "Journal of The Electrochemical Society"
+  month: 5
+  title: "Revisiting the t0.5 Dependence of SEI Growth"
+  issue: 090535
+  volume: 167
+  year: 2020
